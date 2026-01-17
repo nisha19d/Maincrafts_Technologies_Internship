@@ -1,8 +1,8 @@
-# Maincrafts Technologies Data Analysis Internship
+### Maincrafts Technologies Data Analysis Internship
 
 
 
-### TASK 1: Explore the Student Performance dataset and use Python to clean, analyze, and visualize it.
+# TASK 1: Explore the Student Performance dataset and use Python to clean, analyze, and visualize it.
 
 # Task includes
 
