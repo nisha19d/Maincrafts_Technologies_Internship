@@ -10,3 +10,11 @@
 -Statistical analysis with NumPy
 -Data visualization with Matplotlib
 -Correlation analysis
+
+
+### TASK 2: Exploratory Data Analysis of the Titanic Dataset (Analyze survival patterns and visualize them.)
+
+-Loaded and preprocessed the Titanic dataset using Python and Pandas
+-Handled missing values to improve data quality
+-Analyzed survival trends based on gender, passenger class, and age
+-Used visualizations to clearly present survival patterns and insights
